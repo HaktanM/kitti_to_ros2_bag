@@ -1,5 +1,5 @@
 # Convert Raw Kitti Data To ROS2 Bag Format
-This repo is designed for converting the raw unsync Kitti data to ros2 bag format. I write the IMU and Images to a bag file. This file format is especially useful for OpenVINS, VinsMONO, ORB-SLAM in ROS2 implementations.
+This repo is designed for converting the raw unsync Kitti data to ros2 bag format. I write the IMU and Images to a bag file. This file format is especially useful for [OpenVINS](https://docs.openvins.com/), [VinsMONO](https://github.com/HKUST-Aerial-Robotics/VINS-Mono), [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) in ROS2 implementations.
 
 ## Installation
 Dowload the repo using git.
