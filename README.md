@@ -24,3 +24,9 @@ That's it.
 main_path = '/home/hakito/datasets/kitti_raw_unsncy/2011_09_30_drive_0028_extract/2011_09_30/2011_09_30_drive_0028_extract'
 ```
 The just run.
+
+## Additional Notes
+You can check your rosbag by
+```sh
+ros2 bag info /rosbag_deneme
+```
